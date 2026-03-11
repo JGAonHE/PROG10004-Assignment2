@@ -1,1 +1,1 @@
-EnvironmentError 
+print 
